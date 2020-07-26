@@ -1,0 +1,12 @@
+*superlistsenv
+*.idea
+*my_settings.py
+*__pycache__
+pycache/
+*/pycache/
+*.py[cod]
+venv/
+*media
+*static
+db.sqlite3
+geckodriver.log
